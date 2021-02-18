@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello World! 👋
+
+My name is Oscar Medina, and I am a full-stack web developer. Feel free to browse and checkout my [portfolio](https://ogmedina.github.io). If you have any questions get in contact at my email (ogmdeveloper0@gmail.com) 
+
+- 🔭 I’m currently working on getting a certificate in full-stack web development.
+- 🌱 I’m currently learning NoSQL with MongoDB.
+- 👯 I’m looking to collaborate on anything thats awesome!
+- 🤔 I’m looking for help with finding a career!
+- 💬 Ask me about my dogs or anything!
+- 📫 How to reach me: ogmdeveloper0@gmail.com
+- ⚡ Fun fact: I have a Bachelors in Music and can play any instrument!
 
 <!--
 **ogmedina/ogmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
