@@ -8,7 +8,6 @@ My name is Oscar Medina, and I am a full-stack web developer. Feel free to brows
 - 🤔 I’m looking for help with finding a career!
 - 💬 Ask me about my dogs or anything!
 - 📫 How to reach me: ogmdeveloper0@gmail.com
-- ⚡ Fun fact: I have a Bachelors in Music and can play any instrument!
 
 <!--
 **ogmedina/ogmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
