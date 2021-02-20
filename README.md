@@ -6,7 +6,7 @@ My name is Oscar Medina, and I am a full-stack web developer. Feel free to brows
 - 🌱 I’m currently learning NoSQL with MongoDB.
 - 👯 I’m looking to collaborate on anything thats awesome!
 - 🤔 I’m looking for help with finding a career!
-- 💬 Ask me about my dogs or anything!
+- 💬 Ask me about my dogs, current video games, or music instruments!
 - 📫 How to reach me: ogmdeveloper0@gmail.com
 
 <!--
