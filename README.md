@@ -2,8 +2,8 @@
 
 My name is Oscar Medina, and I am a full-stack web developer. Feel free to browse and checkout my [portfolio](https://ogmedina.github.io). If you have any questions get in contact at my email (ogmdeveloper0@gmail.com) 
 
-- 🔭 I’m currently working on getting a certificate in full-stack web development.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on earning a career in web development.
+- 🌱 I’m currently refining my writing in React.js.
 - 👯 I’m looking to collaborate on anything thats awesome!
 - 🤔 I’m looking for help with finding a career!
 - 💬 Ask me about my dogs, current video games, or music instruments!
