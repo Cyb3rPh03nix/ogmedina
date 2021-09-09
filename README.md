@@ -2,10 +2,8 @@
 
 My name is Oscar Medina, and I am a full-stack web developer. Feel free to browse and checkout my [portfolio](https://oscar-medina.com). If you have any questions get in contact at my email (ogmdeveloper0@gmail.com) 
 
-- 🔭 I’m currently working on earning a career in web development.
-- 🌱 I’m currently refining my writing in React.js.
+- 🌱 I’m currently learning Java!
 - 👯 I’m looking to collaborate on anything thats awesome!
-- 🤔 I’m looking for help with finding a career!
 - 💬 Ask me about my dogs, current video games, or music instruments!
 - 📫 How to reach me: ogmdeveloper0@gmail.com
 
@@ -22,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with finding a career!
+- 🔭 I’m currently working on earning a career in web development.
 -->
