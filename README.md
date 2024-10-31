@@ -1,11 +1,10 @@
 ### Hello World! 👋
 
-My name is Oscar Medina, and I am a full-stack web developer. Feel free to browse and checkout my projects. If you have any questions get in contact at my email (ogmdeveloper0@gmail.com) 
+My name is Oscar Medina, and I am a Senior IT Support Specialist/Full-Stack Web Developer. Feel free to browse and checkout my projects. If you have any questions get in contact at my email (ogmdeveloper0@gmail.com) 
 
-- 🌱 I’m currently learning Java!
-- 👯 I’m looking to collaborate on anything thats awesome!
-- 💬 Ask me about my dogs, current video games, or music instruments!
-- 📫 How to reach me: ogmdeveloper0@gmail.com
+- 🌱 I’m currently working towards learning CEH
+- 👯 I’m looking to collaborate on anything thats awesome
+- 💬 Ask me about my dogs/video games/music 
 
 <!--
 **ogmedina/ogmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
